@@ -13,7 +13,7 @@ Asal : MAN 2 Jakarta<br>
 - Kabel Jumper
 
 # Foto Rangkaian Fisik
-![Gambar Proyek](img/Rangkain_Fisik.jpg)
+![Gambar Proyek](img/Rangkaian_Fisik.jpg)
 
 
 
