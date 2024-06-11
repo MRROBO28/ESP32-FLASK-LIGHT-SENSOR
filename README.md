@@ -66,7 +66,7 @@ Atau bisa lihat pada link berikut : <br>
 <video controls>
   <source src="video/Evideo.mp4" type="video/mp4"/>
 </video>
-browser anda tidak mendukung... silakan klik link berikut untuk melihat video <br>
+Anda dapat men-download video demo di bawah ini
 
 [video/video.mp4](video/video.mp4)
 
