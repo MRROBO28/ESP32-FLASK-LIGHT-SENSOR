@@ -25,7 +25,7 @@ void setup() {
 void loop() {
     int sensorValue = analogRead(34);
     int newval = map(sensorValue,4095,0,0,100);
-    Serial.println(sensorValue);delay(100);
+    Serial.println(newval);delay(100);
 
     if (WiFi.status() == WL_CONNECTED) {
       HTTPClient http;
