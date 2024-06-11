@@ -66,7 +66,9 @@ Atau bisa lihat pada link berikut : <br>
 <video controls>
   <source src="video/Esp32_flask_sensor.mp4" type="video/mp4"/>
 </video>
+browser anda tidak mendukung... silakan klik link berikut untuk melihat video <br>
 
+[video/Esp32_flask_sensor.mp4](video/Esp32_flask_sensor.mp4)
 
 
 
