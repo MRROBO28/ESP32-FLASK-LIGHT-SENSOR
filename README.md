@@ -62,6 +62,11 @@ if __name__ == '__main__':
 Atau bisa lihat pada link berikut : <br>
 [myserver.py](myserver.py)
 
+# Video Praktik
+<video controls>
+  <source src="video/Esp32_flask_sensor.mp4" type="video/mp4"/>
+</video>
+
 
 
 
